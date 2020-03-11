@@ -12,7 +12,8 @@ namespace EFCodeFirstEmpTask
         {
              //InsertEmpData();
              //InsertDeptData();
-            ShowData();
+            ShowData(); 
+            //showddata methodd
         }
         
         private static void InsertEmpData()
